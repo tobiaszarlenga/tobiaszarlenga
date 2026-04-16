@@ -10,6 +10,7 @@ Soy desarrollador enfocado en construir soluciones que realmente sirvan. Trabajo
 - Mejorando flujos de datos y automatización
 
 ## 🧠 Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,nextjs,nodejs,react,ts,wordpress)](https://skillicons.dev)
 - Oracle APEX / PL/SQL
 - SQL (fuerte)
 - Node.js / Express
