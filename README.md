@@ -1,4 +1,4 @@
-<img width="300" height="680" alt="tobias" src="https://github.com/user-attachments/assets/0089cab9-cefe-4389-994f-84ee1f19bcd9" />
+<img width="300" height="480" alt="tobias" src="https://github.com/user-attachments/assets/0089cab9-cefe-4389-994f-84ee1f19bcd9" />
 
 # Hola, soy Tobias 👋
 
